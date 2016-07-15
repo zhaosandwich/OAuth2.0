@@ -1,0 +1,25 @@
+.content{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    text-align: center;
+}
+.content table{
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.content .title{
+    text-align: center;
+}
+.select{
+    width: 150px;
+}
+.btn{
+    width: 50px;
+}
+#textA{
+    width: 400px;
+    height: 250px;
+}

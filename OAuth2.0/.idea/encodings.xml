@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/AuthorizationServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthorizationServer/src/main/resources/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthorizationServer/src/main/resources/config.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthorizationServer/src/main/resources/log4j.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AuthorizationServer/web/js/jquery.easyui.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AuthorizationServer/web/js/jquery.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Client/web/js/client.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ResourceServer" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

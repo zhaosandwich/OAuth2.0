@@ -1,0 +1,24 @@
+/**
+ * Created by Sandwich on 2016/7/6.
+ */
+.content{
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.content h1{
+    text-align: center;
+}
+.content table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+.btn{
+    text-align: center;
+}
+.tips{
+    color: red;
+}
