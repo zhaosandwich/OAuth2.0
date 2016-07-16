@@ -19,11 +19,11 @@
                 String code = request.getParameter("code");
                 if (code != null){
                 %>
-                已登陆
+                用户已登陆
               <%
                 } else {
                 %>
-                尚未登陆
+              用户尚未登陆
               <%
                 }
                 %>
