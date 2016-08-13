@@ -6,6 +6,19 @@
 #工程部署
  关于上下文路径的问题，参考Client工程的，client.js文件
 先把OAuth2.0工程导出，再以moduled导入各个模块，jar包用maven管理
+
+#DB
+create table userinfo(
+userName varchar2(10),
+pwd varchar2(10),
+openId varchar2(32)
+)
+
+create table contentinfo(
+content varchar2(50),
+openId varchar2(32)
+)
+
 <<<<<<< HEAD
 
 
