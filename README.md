@@ -19,7 +19,6 @@ content varchar2(50),
 openId varchar2(32)
 )
 
-<<<<<<< HEAD
 
 
 #联系
